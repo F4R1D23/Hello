@@ -1,4 +1,8 @@
 # Hello
 Just I came to say Hi!
 
-<h1 style=color: #ffcb77;"> Hello </h1>
+<h1> Hello </h1>
+
+<h2> Hello </h2>
+<h3> Hello </h3>
+<h4> Hello </h4>
